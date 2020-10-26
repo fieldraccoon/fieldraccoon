@@ -13,7 +13,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fieldraccoon&show_icons=true&count_private=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fieldraccoon)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fieldraccoon&show_icons=true&count_private=true&theme=react)
 
 ## Some cool repo's i have
 
