@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fieldraccoon&show_icons=true&count_private=true&theme=react)
 
+## Some cool repo's i have
+
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fieldraccoon&repo=HostEnumerator)](https://github.com/fieldraccoon/HostEnumerator)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fieldraccoon&repo=fieldraccoon.github.io)](https://github.com/fieldraccoon/fieldraccoon.github.io)
