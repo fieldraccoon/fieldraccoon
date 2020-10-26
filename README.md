@@ -8,10 +8,7 @@
 - 💬 Ask me about anything cyber security related. Il try my best to help!
 - 💻 I enjoy doing CTF's with my ctf team [The WinRaRs](https://ctftime.org/team/113086)
 - ⌨️ I enjoy working on things hack the box related. [My profile](https://www.hackthebox.eu/home/users/profile/246314)
-- ![twitter](http://i.imgur.com/wWzX9uB.png) You can find me on [![Twitter][1.2]][1]
 
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[1]: https://twitter.com/fieldraccoon
 
 
 
@@ -19,3 +16,5 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fieldraccoon&repo=HostEnumerator&theme=react)](https://github.com/fieldraccoon/HostEnumerator) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fieldraccoon&repo=fieldraccoon.github.io&theme=react)](https://github.com/fieldraccoon/fieldraccoon.github.io)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=fieldraccoon.fieldraccoon)
