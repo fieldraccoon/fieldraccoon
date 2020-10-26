@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fieldraccoon&show_icons=true&theme=gradient)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fieldraccoon&show_icons=true&theme=react)
