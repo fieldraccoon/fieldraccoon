@@ -6,7 +6,8 @@
 - 💬 Ask me about anything cyber security related. Il try my best to help!
 - 💻 I enjoy doing CTF's with my ctf team [The WinRaRs](https://ctftime.org/team/113086)
 - ⌨️ I enjoy working on things hack the box related. [My profile](https://www.hackthebox.eu/home/users/profile/246314)
-- ✅ You can follow me on Twitter. ![Twitter Follow](https://img.shields.io/twitter/follow/fieldraccoon?label=Follow%20me%20on%20twitter%21&logo=twitter&style=social)
+- ✅ You can follow me on Twitter. [<img src="http://i.imgur.com/wWzX9uB.png">](https://twitter.com/fieldraccoon)
+
 - 📲 You can view my website here [fieldraccoon.github.io](https://fieldraccoon.github.io)
 
 
