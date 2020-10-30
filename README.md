@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on my enumerator and my website.
 - 🌱 I’m currently learning to get good at cyber security.
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me about anything cyber security related. Il try my best to help!
 - 💻 I enjoy doing CTF's with my ctf team [The WinRaRs](https://ctftime.org/team/113086)
 - ⌨️ I enjoy working on things hack the box related. [My profile](https://www.hackthebox.eu/home/users/profile/246314)
 - ✅ You can follow me on Twitter. [<img src="http://i.imgur.com/wWzX9uB.png">](https://twitter.com/fieldraccoon)
