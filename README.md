@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my enumerator and my website.
+- 🔭 I’m currently working on learning Web Development.
 - 🌱 I’m currently learning to get good at cyber security.
 - 👯 I’m looking to collaborate on more open source projects.
 - 💻 I enjoy doing CTF's with my ctf team [The WinRaRs](https://ctftime.org/team/113086)
