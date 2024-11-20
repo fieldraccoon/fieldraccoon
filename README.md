@@ -1,9 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on learning Web Development.
-- 💻 I do CTF's with my ctf team [The WinRaRs](https://ctftime.org/team/113086)
-- ⌨️ I enjoy working on things hack the box related. [My profile](https://www.hackthebox.eu/home/users/profile/246314)
-- ✅ You can follow me on Twitter. [<img src="http://i.imgur.com/wWzX9uB.png">](https://twitter.com/fieldraccoon)
 
 - 📲 You can view my website here [fieldraccoon.github.io](https://fieldraccoon.github.io)
 
